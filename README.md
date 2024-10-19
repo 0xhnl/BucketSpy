@@ -20,10 +20,10 @@
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/0xhnl/BucketSpy.git
-   cd BucketSpy
-   ```
+```bash
+git clone https://github.com/0xhnl/BucketSpy.git
+cd BucketSpy
+```
 
 2. Don't forget to add your API key:
 
